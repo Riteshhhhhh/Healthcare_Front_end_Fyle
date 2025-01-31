@@ -23,7 +23,8 @@ cd health-challenge-tracker
 npm install
 3. Run the application:
 ng serve
-The application will be available at http://localhost:4200.
+The application will be available at
+http://localhost:4200.
 
 Usage
 Open the app in your browser.
@@ -36,3 +37,6 @@ Contributing
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request with your changes.
 
 ![Screenshot 2025-01-31 150422](https://github.com/user-attachments/assets/951a6f55-02ca-4f8b-9b16-804edbd82aa5)
+![Screenshot 2025-01-31 150428](https://github.com/user-attachments/assets/1e7a3d94-448c-49d1-829d-c8a4d8ca1c76)
+![Screenshot 2025-01-31 150434](https://github.com/user-attachments/assets/70846e83-8c5b-4957-b1e4-f4187f7ad2b7)
+
